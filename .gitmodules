@@ -1,3 +1,6 @@
 [submodule "sub"]
 	path = sub
 	url = git@github.com:fxenik/fxenik-sub.git
+[submodule "fxenik-sub"]
+	path = fxenik-sub
+	url = git@github.com:fxenik/fxenik-sub.git
